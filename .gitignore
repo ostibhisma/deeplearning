@@ -1,0 +1,28 @@
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+venv_pdf/
+local Enviro/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset
+fer2013/
+
+# Trained models
+*.h5
+*.keras
+
+# Secrets
+.env
+.env.*
