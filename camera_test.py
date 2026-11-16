@@ -38,3 +38,4 @@ for camera_index in range(4):
     cap.release()
 
 cv2.destroyAllWindows()
+
